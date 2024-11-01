@@ -7,6 +7,7 @@ Build/
 /.build
 
 # Project
+/SwiftDefaultApps.xcworkspace/xcuserdata
 /SwiftDefaultApps.xcodeproj/xcuserdata
 /SwiftDefaultApps CLI.xcodeproj/xcuserdata
 /AppDoesNothing.xcodeproj/xcuserdata
